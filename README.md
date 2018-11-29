@@ -4,7 +4,7 @@ GA-TSP is a meta-learning dataset which is about genetic algorithms (GA) applied
 
 
 ## Description
-The characteristics of both, the individual TSP problems and the individual GAs are described in terms of feature vectors. The features in combination with the (relative) performances can be used for methods that are able to predict the performances of
+The characteristics of both, the individual TSP problems and the individual GAs are described in terms of feature vectors. The features in combination with the (relative) performances can be used by methods that are able to predict the performances of
 - (a) known GAs on new TSP instances
 - (b) new GAs on known TSP instances or
 - (c) new GAs on new TSP instances.
